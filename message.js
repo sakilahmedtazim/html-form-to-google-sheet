@@ -1,4 +1,4 @@
-const scriptURLC = 'https://script.google.com/macros/s/AKfycbzZv0FZtQRSlrQGUh8ndIfJrM9A6gFqWfd3en8VIT7pFMQCjHNs3_6dSM9t4f4njnPz/exec'
+const scriptURLC = 'https://script.google.com/macros/s/AKfycbzpCWVfrnWt64a_qwhdfNHFe6BSNwnHSwOAz0HGCTqCrCp3sjBmg3xmjt_5EI-NQHszNA/exec'
 const formc = document.forms['html-form-to-google-sheet'];
 const alert_subc = document.getElementById('alert_submission');
 
